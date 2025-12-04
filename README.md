@@ -1,11 +1,14 @@
 # Coding-Optimizer-Macropad
 There are many key commands I make repetitively while coding that require finger gymnastics. Can optimize this repetitive code by pasting the desired code block by block (on sequential button presses). The blocks are chunked by their ends lining up with the part of the code you need to customize.
+Although using a macro pad requires you to leave home-row while writing code, I think the net benefit of not having to write boilerplate code repeatedly greatly outweighs the typing speed reduction. 
 
 # Schematics
 <img width="975" height="697" alt="image" src="https://github.com/user-attachments/assets/2d564ca7-79d1-45f8-b5dd-21e92256a835" />
 
 # PCB 
 <img width="951" height="467" alt="image" src="https://github.com/user-attachments/assets/eb9d0b91-291a-4639-92f5-31dc6707ba4a" />
+<img width="688" height="397" alt="image" src="https://github.com/user-attachments/assets/a223d29b-d57e-426d-9db1-83768ab96b22" />
+<img width="457" height="652" alt="image" src="https://github.com/user-attachments/assets/946da93b-2aff-4bec-b728-b39d0edaf244" />
 
 # Hackpad Render
 <img width="671" height="426" alt="image" src="https://github.com/user-attachments/assets/34ea803d-8ec5-4a1a-a00a-5969ef64cc79" />
@@ -34,6 +37,11 @@ Screws (x4):
 
 # Assembled Version (and process demonstration)
 Coming Soon!
+
+# Typing speed and coding performance inference testing
+Did it really make the coding experience faster? 
+Coming Soon!
+
 
 # Bill of Materials
 - 2 SK6812 MINI-E LED (indicator for activated paste sequence) 
