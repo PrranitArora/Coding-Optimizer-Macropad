@@ -11,6 +11,9 @@ Although using a macro pad requires you to leave home-row while writing code, I 
 <img width="457" height="652" alt="image" src="https://github.com/user-attachments/assets/946da93b-2aff-4bec-b728-b39d0edaf244" />
 
 # Hackpad Render
+<img width="763" height="395" alt="image" src="https://github.com/user-attachments/assets/163295f6-29be-4c01-ab6e-19aa3a8ac85b" />
+<img width="1081" height="582" alt="image" src="https://github.com/user-attachments/assets/e1b1d6f9-9d68-41a8-94f5-6d8dde546109" />
+
 <img width="671" height="426" alt="image" src="https://github.com/user-attachments/assets/34ea803d-8ec5-4a1a-a00a-5969ef64cc79" />
 <img width="696" height="373" alt="image" src="https://github.com/user-attachments/assets/60730e51-5f17-41d4-a2fa-315d3fed5c8a" />
 <img width="718" height="282" alt="image" src="https://github.com/user-attachments/assets/82b4979b-911a-4fd5-b252-21323ebffdf0" />
